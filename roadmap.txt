@@ -1,0 +1,26 @@
+
+COMPLETED:
+-- Introduction!
+TC DO:
+--
+--
+Thiết lập cấu trúc tệp
+Thiết lập cơ sở dữ liệu, điền nội dung
+Thiết lập init file, thêm kết nối với database -- Thiết lập HTML & CSS cơ bản
+--
+Thảo luận về hướng dẫn phong cách mã hóa Thảo luận về MVC và OOP
+Tạo đối tượng Template
+Tạo đối tượng Categories để chúng ta có thể thiết lập điều hướng
+Làm việc trên đối tượng Products, vì vậy chúng ta có thể hiển thị danh sách tất cả các sản phẩm
+Cho phép sắp xếp sản phẩm thành các danh mục
+- Tạo chế độ xem chi tiết sản phẩm
+Tạo đối tượng giỏ hàng, để các mặt hàng có thể được thêm vào giỏ hàng
+- Xây dựng trang giỏ hàng và hiển thị sản phẩm trong giỏ hàng
+--
+Xây dựng khả năng hiển thị # của các mặt hàng / chi phí của các mặt hàng trong giỏ hàng trong tiêu đề trang
+Thêm khả năng loại bỏ tất cả các sản phẩm trong giỏ hàng
+Thêm khả năng loại bỏ / thay đổi số lượng sản phẩm trong giỏ hàng
+Thêm hỗ trợ thuế
+-- Thêm chi phí vận chuyển
+Thiết lập tài khoản hộp cát PayPal
+Xây dựng hỗ trợ thanh toán PayPal

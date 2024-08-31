@@ -1,0 +1,19 @@
+TOOLS USED:
+MAMP (for Mac): http://www.namp.info/en/index.html
+WAMP (for Windows): http://www.wanpserver.com/en/
+Espresso Text Editor (for Mac): http://macrabbit.com/espresso/
+IMAGES:
+http://www.publicdomainpictures.net/
+STYLE GUIDE:
+http://codeigniter.com/user_guide/general/styleguide.html
+MYSQLI PREPARED STATEMENTS: "IN"
+http://php.net/manual/en/mysqli-stmt.bind-param.php
+developer.paypal.com
+https://www.sandbox.paypal.com/us/cgi-bin/webscr?cmd=_web-tools
+https://www.paypal.com/cgi-bin/webscr?cmd=_pdn_xclick_techview_outside (PDF linked from here) https://cns.paypal.com/us/cgi-bin/?cmd=_render-content&content_ID=developer/
+e_howto_html Appx_websitestandard_htmlvariables
+https://cms.paypal.com/cms_content/US/en_US/files/developer/PP_WebsitePaymentsStandard_IntegrationGuide.pdf (p 487)
+IPN:
+https://www.x.com/developers/PayPal/documentation-tools/code-sample/216623
+https://www.paypal.com/ipn/
+http://www.micahcarrick.com/paypal-ipn-with-php.html

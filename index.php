@@ -33,5 +33,5 @@ if (isset($_GET['id']) && is_numeric($_GET['id'])) {
   $products = $Products->create_product_table();
   $Template->setData('products', $products);
 
-  include $Template->load('app/views/v_public_home.php', 'Welcome!');
+  $Template->load('app/views/v_public_home.php', 'Welcome!');
 }

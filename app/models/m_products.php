@@ -164,8 +164,9 @@ class Products
           $data[] = array('id' => $row['id'], 'price' => $row['price']);
         }
       }
-    
-    return $data;
+
+      return $data;
+    }
   }
 
   /**

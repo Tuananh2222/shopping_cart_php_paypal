@@ -25,7 +25,7 @@
           }
         ?>
         </strong> &nbsp;| &nbsp;
-      <a href="<?php echo SITE_PATH; ?> cart.php">Shopping Cart</a>
+      <a href="<?php echo SITE_PATH; ?>cart.php">Shopping Cart</a>
     </div>
     <h1><?php echo SITE_NAME; ?></h1>
     <ul class="nav">

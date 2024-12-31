@@ -7,11 +7,15 @@
 $servername = "localhost";
 $username = "root";
 $password = "root";
-$dbName = 'wb_shop';
+$dbName = 'web_store';
 $port = 8889;
 
 $Database = mysqli_connect($servername, $username, $password, $dbName, $port);
 
+
+if (!$Database) {
+  die("Connection failed: " . mysqli_connect_error());
+}
 // error reporting
 
 mysqli_report(MYSQLI_REPORT_ERROR);
